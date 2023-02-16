@@ -1,0 +1,64 @@
+.notSelectedBtnChanging{
+    background-color:black;
+    color : white!important;
+}
+  
+.selectedBtnChanging{
+      background-color:#FFDD04!important;
+      color :black!important;
+}
+
+.tab{
+    width: 100%;
+    display:flex
+}
+
+.bookAppointmentColor{
+    background-color: #FFDD04;
+}
+
+
+.bookAppointment{
+    color:black;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+    width:49%;
+    height:70px;
+    font-size:30px;
+    text-align: left;
+    padding-left: 85px;
+}
+
+.bookAppointment img{
+    display:none
+}
+
+#requestMoreInfoBtn img{
+    display:none
+}
+
+#requestMoreInfoBtn img{
+    display:none
+}
+
+.requestMoreInfoBtn{
+    background-color:black;
+}
+
+#requestMoreInfoBtn{
+    width: 50%;
+    color:white;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+    height:70px;
+    font-size:30px;
+    text-align:left;
+    padding-left:45px
+}
+

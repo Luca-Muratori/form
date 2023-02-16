@@ -1,0 +1,14 @@
+.contactUs{
+    color: white;
+    text-align:center;
+    font-weight:500
+}
+
+hr{
+    color:#FFDD04;
+    background-color:#FFDD04;
+    height: 3px;
+    margin-right:auto;
+    margin-left:auto;
+    width: 2.4%;
+}
